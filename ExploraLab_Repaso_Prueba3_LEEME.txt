@@ -1,0 +1,16 @@
+EXPLORALAB · TALLER DE 25 CASOS (ORACLE)
+
+ARCHIVOS DE ESTUDIANTES
+1. Guia_Estudiantes.docx: enunciados (sin respuestas).
+2. 00_Inicio_Oracle.sql: ejecutarlo una sola vez en un esquema vacio.
+3. 01_Datos_Comunes_Oracle.sql: ejecutarlo DESPUES de casos 01-10.
+
+SECUENCIA
+- Caso 01-10: crear tablas, constraints, secuencias.
+- Caso 11: ejecutar 01_Datos_Comunes una sola vez y despues insertar
+  dos participantes con NEXTVAL.
+- Casos 12-13: insertar los registros adicionales.
+- Casos 14-25: consultar y crear reportes.
+
+Los scripts estan dirigidos a Oracle SQL Developer (F5).
+La guia y el ejemplo son distintos del caso oficial de la Prueba Parcial 3.
